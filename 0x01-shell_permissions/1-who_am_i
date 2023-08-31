@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo -i i_am_who_i_am
+sudo current_user
