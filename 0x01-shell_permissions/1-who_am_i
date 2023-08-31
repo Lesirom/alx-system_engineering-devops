@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo current_user
+sudo -i betty
